@@ -22,7 +22,7 @@ DESCRIPTION:
         Focus attention on efficiency
 */
 
-class DoubleLinear {
+public class DoubleLinear {
     public static int dblLinear(int n) {
         int[] u = new int[n + 1];
         int k1 = 0, k2 = 0;
